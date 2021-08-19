@@ -100,6 +100,7 @@ function App() {
     <Container>
       <Row>
         <Col>
+          <br />
           <Card className='card-main'>
             <Card.Body>
               <Card.Title>

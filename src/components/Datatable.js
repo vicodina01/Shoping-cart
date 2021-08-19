@@ -10,7 +10,7 @@ const Datatable = ({
   updateSelectItem,
 }) => {
   return (
-    <Table striped bordered hover>
+    <Table responsive striped bordered hover>
       <thead className='table-header-blue'>
         <tr className='txt-center'>
           <th style={{ width: '40px' }}></th>

@@ -9,7 +9,7 @@
   border-color: #0d6efd;
 }
 .img-table {
-  width: 100px;
+  width: 80%;
 }
 
 .currency::before {
@@ -21,7 +21,6 @@
 .big-check input {
   width: 1.5em;
   height: 1.5em;
-  margin: 20px;
 }
 .txt-center {
   text-align: center;
@@ -31,4 +30,7 @@
 }
 .txt-bold {
   font-weight: bold;
+}
+td {
+  vertical-align: middle;
 }
