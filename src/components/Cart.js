@@ -23,7 +23,7 @@ function Cart({ data, showCart, setShowCart }) {
             <Col xs md={6} style={{ textAlign: 'center' }}>
               <h5>SHOPPING CART</h5>
               <hr />
-              <Table striped bordered hover>
+              <Table responsive striped bordered hover>
                 <thead className='table-header-blue'>
                   <tr>
                     <th></th>
